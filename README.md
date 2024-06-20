@@ -1,6 +1,7 @@
-Here's a comprehensive README file for a To-Do List App using the MERN stack. This README includes project details, setup instructions, usage, and screenshots as requested.
-
----
+#Update to be made
+-Add a completed status of the project
+-Set status a dropdown select
+-Set Status based on deadline selected
 
 # To-Do List App
 
