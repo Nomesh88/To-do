@@ -1,4 +1,4 @@
-#Update to be made
+## Update to be made
 -Add a completed status of the project
 -Set status a dropdown select
 -Set Status based on deadline selected
