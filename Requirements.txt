@@ -1,0 +1,11 @@
+Goals of the project:
+
+    Skills: CRUD operations, state management.
+
+Features:
+    Create  a Task
+    Display created Task
+    Update Task
+    Delete Task
+Time limit: 2.5hr
+Start time: 6:00 Am.
