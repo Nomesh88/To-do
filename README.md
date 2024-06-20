@@ -1,6 +1,6 @@
 # To-Do List App
 
-![To-Do List Header](images/todo-header.png)
+![To-Do List Header](main.png)
 
 A simple and efficient To-Do List application built using the MERN stack (MongoDB, Express.js, React, Node.js). Manage your tasks effectively by adding, editing, deleting, and marking them as complete.
 
@@ -80,7 +80,7 @@ To run this project locally, follow these steps:
 2. Modify the task details in the input field.
 3. Click on the "Update Task" button to save changes.
 
-![Edit Task](images/edit-task.png)
+![Edit Task](edittask.png)
 
 ### Deleting a Task
 
@@ -125,15 +125,15 @@ todo-list-app/
 
 ### Task List View
 
-![Task List](images/task-list.png)
+![Task List](main.png)
 
 ### Add Task
 
-![Add Task](images/add-task.png)
+![Add Task](addtask.png)
 
 ### Edit Task
 
-![Edit Task](images/edit-task.png)
+![Edit Task](edittask.png)
 
 ## New Ui and updated application
 ![Updated](Updated.png)
