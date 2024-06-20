@@ -2,7 +2,7 @@
 
 This is a simple To-Do List application built using React and React-Bootstrap. 
 
-**No MongoDB**
+## No MongoDB and Express server
 
 ## Features
 
